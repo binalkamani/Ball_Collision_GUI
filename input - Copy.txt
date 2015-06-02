@@ -1,0 +1,4 @@
+01 5 % Visualization Mode, Number of Balls to simulate
+04 350 400 %Period of ball appearance (sec), Initial X Position, Initial Y Position of the Balls
+01 250 100 400 200 % Second line X1, Y1, X2, Y2 Coordinates 
+02 100 200 150 100 % First line X1, Y1, X2, Y2 Coordinates
